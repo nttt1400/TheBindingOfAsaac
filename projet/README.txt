@@ -2,7 +2,7 @@ The Binding Of Asaac
 
 A project of Université de Rennes 1
 
-Authors: NGUYEN Thi-Thuy-Tien & CREZE Tudwall
+Authors: NGUYEN Thi-Thuy-Tien
 
 
 PRESENTATION DU JEU
