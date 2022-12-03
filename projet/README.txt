@@ -1,4 +1,4 @@
-The Binding Of Asaac
+The Binding Of Isaac
 
 A project of Université de Rennes 1
 
